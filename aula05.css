@@ -1,0 +1,46 @@
+
+
+*{
+    background-color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#verde{
+    background-color: greenyellow;
+ 
+}
+
+#laranja{
+    background-color: orange;
+   
+}
+#azulclaro{
+    background-color: aqua;
+    
+}
+#vermelho{
+    background-color: red;
+    
+    
+}
+#roxo{
+    background-color: blueviolet;
+   
+}
+#rosa{
+    background-color: pink;
+   ;
+}
+
+.footer {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(255, 251, 0);
+    color: #ffffff;
+    font-size: 14px;
+    margin-top: 1000px;
+}
+.footer p,b{
+    background-color: rgb(255, 251, 0);
+    color: black;
+}
